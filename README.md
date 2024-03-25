@@ -4,5 +4,6 @@ the system alows patient to enter informatin on how there are responding to medi
 
                                             ########LINK TO DOCTOR PROTOTYPE##############
 https://www.figma.com/file/tZ9V1uWe2SNyjFq21UTlfL/UMOYOS?type=design&node-id=240-208&mode=design&t=o9Pe65wplF4UZHK4-0
+
                                             ########LINK TO PATIENT PROTOTYPE##############
 https://www.figma.com/file/tZ9V1uWe2SNyjFq21UTlfL/UMOYOS?type=design&node-id=240-606&mode=design&t=o9Pe65wplF4UZHK4-0
